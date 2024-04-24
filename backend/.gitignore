@@ -1,0 +1,11 @@
+/node_modules
+/vendor
+./idea
+.idea/
+.env
+.vscode
+.lh
+truths/
+uploads
+*.json
+!*.MD
